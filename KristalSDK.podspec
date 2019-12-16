@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
 
     s.platform          = :ios
-    s.source            = { :http => 'https://github.com/investo2o/demoAppKristalSdk/blob/master/KristalSDK.zip?raw=true' }
+    s.source            = { :http => 'https://github.com/abhishekInvesto2o/demoAppKristalSdk/blob/master/KristalSDK.zip?raw=true' }
 
     s.ios.deployment_target = '10.0'
     s.ios.vendored_frameworks = 'KristalSDK.framework'
